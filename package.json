@@ -1,0 +1,20 @@
+{
+  "name": "realshaunoneill",
+  "version": "1.0.0",
+  "description": "My personal automated github readme",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Shaun O'Neill",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^13.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,13 +1,13 @@
 <h2>Hey there, I'm <a href="https://shaunoneill.com">Shaun O'Neill!</a> 👋</h2>
 <p><a href="https://twitter.com/realshaunoneill"><img src="https://img.shields.io/badge/@realshaunoneill-1DA1F1?style=for-the-badge&amp;logoColor=white&amp;logo=Twitter&amp;link=https://twitter.com/realshaunoneill" alt="Twitter Badge"></a> <a href="https://www.linkedin.com/in/shaun-oneill/"><img src="https://img.shields.io/badge/Shaun%C2%A0O'Neill-0077B5?style=for-the-badge&amp;logoColor=white&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/shaun-oneill/" alt="LinkedIn Badge"></a> <a href="https://www.instagram.com/thatsexyaudi/"><img src="https://img.shields.io/badge/@ThatSexyAudi-E4405F?style=for-the-badge&amp;logoColor=white&amp;logo=LinkedIn&amp;link=https://www.instagram.com/thatsexyaudi/" alt="Instagram Badge"></a> <a href="https://github.com/realshaunoneill"><img src="https://img.shields.io/badge/@realshaunoneill-black?style=for-the-badge&amp;logoColor=white&amp;logo=Github&amp;link=https://github.com/realshaunoneill" alt="Github Badge"></a><br>
-I'm currently a software engineer at <strong><a href="https://www.rapid7.com">Rapid7</a></strong> based in 🇮🇪 Dublin. ⚡ I have experience working with a wide range of technologies, primarily including React, Node, and Python. Being a fast learner, I am always eager to learn new skills and explore new technologies. I am a strong believer in the power of teamwork and collaboration, and I am always looking for opportunities to work with others to build something great.</p>
+I'm a full stack software engineer from Ireland. 🇮🇪 I'm a full-stack engineer with a passion for building innovative software solutions.  ⚡ I have experience working with a wide range of technologies, primarily including React, Node, and Python.  Being a fast learner, I am always eager to learn new skills and explore new technologies.  I am a strong believer in the power of teamwork and collaboration, and I am always looking for opportunities to work with others to build something great.</p>
 <h3>TL;DR ✍️</h3>
 <p>Because who actually has time to read that wall of text? 😂</p>
 <ul>
 <li>💻 Self taught, full stack developer living in <strong>Ireland</strong></li>
 <li>🧐 Always willing to learn new things all the time, and work in teams</li>
 <li>👨‍💻 Most of my projects are available on my <a href="https://github.com/realshaunoneill">Github</a></li>
-<li>💬 Always down to chat! Contact me on one of the platforms listed above!</li>
+<li>💬 Always down to chat! Contact me on one of the platforms down below!</li>
 </ul>
 <h2>📚 Experience</h2>
 <p>Currently, I am working as a software engineer at <a href="https://www.rapid7.com">Rapid7</a>, where I have the opportunity to contribute to building robust and secure software solutions.<br>
@@ -19,7 +19,7 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <p><strong>A simple tool to stream docker container logs to the Rapid7 log service</strong></p>
 </li>
 </ul>
-<p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
+<p>It's probably still a work in progress, but I'm always looking for feedback! 😄</p>
 <p>Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:</p>
 <ul>
 <li><a href="https://github.com/realshaunoneill/dotfiles">DotFiles</a> - This repo contains my personal dotfiles config setup. Here you'll find my configs, themes, aliases and whatever I need to personalize my Linux and MacOS terminal.</li>
@@ -28,7 +28,7 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <li><a href="https://github.com/realshaunoneill/FakeSocial">Fake Social</a> - Fake social media login's for the purpose of educating people to spot the differences! 🔥  - 4⭐️</li>
 </ul>
 <blockquote>
-<p>I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:<br>
+<p>I tend to pick up a lot of projects as time passes, so this list is not exhaustive! 😅<br>
 You can see more by exploring <a href="https://github.com/realshaunoneill/repositories">my repositories</a></p>
 </blockquote>
 <h2>👀 Quick Statistics</h2>
