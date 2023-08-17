@@ -1,7 +1,7 @@
 import { getCenteredText } from "../utils.js";
 
 const lineBreak = '------------';
-const title = getCenteredText(`This <i>README</i> was last updated on ${new Date().toDateString()}`);
+const title = getCenteredText(`This <i>README</i> was last updated on ${new Date().toDateString()} at ${new Date().toLocaleTimeString()}.`);
 
 export const getContent = () => {
     const subSections = [
