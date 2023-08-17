@@ -17,8 +17,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-        with:
-          persist-credentials: true
       - name: Setup Node ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -29,11 +27,11 @@ jobs:
         run: |-
           npm start
           cat README.md
-      - name: Commit with diff
-        run: |-
-          git add .
-          git diff
-          git config --global user.email "shaunoneill7@gmail.com"
-          git config --global user.name "ReadMe Bot"
-          git commit -m ":sparkles: feat(README.md): Updated README" || echo "No changes detected"
-          git push
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          author_email: "shaunoneill7@gmail.com"
+          author_name: "ReadMe Bot"
+          message: ":sparkles: feat(README.md): Updated README"
