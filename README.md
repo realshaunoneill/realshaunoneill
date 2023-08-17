@@ -12,25 +12,6 @@ I'm currently a software engineer at <strong><a href="https://www.rapid7.com">Ra
 <h2>📚 Experience</h2>
 <p>Currently, I am working as a software engineer at <a href="https://www.rapid7.com">Rapid7</a>, where I have the opportunity to contribute to building robust and secure software solutions.<br>
 At Rapid7, I am constantly challenged to explore new technologies and collaborate with talented individuals, fostering my growth as a engineer.</p>
-<h2>🔭 Projects</h2>
-<ul>
-<li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/docker-log-tailer">docker-log-tailer</a>.</p>
-<p><strong>A simple tool to stream docker container logs to the Rapid7 log service</strong></p>
-</li>
-</ul>
-<p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
-<p>Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:</p>
-<ul>
-<li><a href="https://github.com/realshaunoneill/dotfiles">DotFiles</a> - This repo contains my personal dotfiles config setup. Here you'll find my configs, themes, aliases and whatever I need to personalize my Linux and MacOS terminal.</li>
-<li><a href="https://github.com/realshaunoneill/cloudflare-ddns">Cloudflare-DDNS</a> - A dynamic DNS service which uses Cloudflare! Automatically update your cloudflare domain with your public IP!  - 1⭐️</li>
-<li><a href="https://github.com/realshaunoneill/docker-log-tailer">Docker Log Tailer</a> - A simple tool to stream docker container logs to the Rapid7 log service  - 1⭐️</li>
-<li><a href="https://github.com/realshaunoneill/FakeSocial">Fake Social</a> - Fake social media login's for the purpose of educating people to spot the differences! 🔥  - 4⭐️</li>
-</ul>
-<blockquote>
-<p>I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:<br>
-You can see more by exploring <a href="https://github.com/realshaunoneill/repositories">my repositories</a></p>
-</blockquote>
 <h2>👀 Quick Statistics</h2>
 <p>Please don't judge me 😂 My work commits don't count</p>
 <table>
@@ -44,4 +25,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Thu Aug 17 2023 at 12:37:05 AM.</p>
+<p align="center">This <i>README</i> was last updated on Thu Aug 17 2023 at 3:45:06 PM.</p>
