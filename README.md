@@ -15,8 +15,8 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/docker-log-tailer">docker-log-tailer</a>.</p>
-<p><strong>A simple tool to stream docker container logs to the Rapid7 log service</strong></p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/realshaunoneill">realshaunoneill</a>.</p>
+<p><strong>Personal repo to store my public profile README!</strong></p>
 </li>
 </ul>
 <p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Tue Aug 22 2023 at 10:15:14 AM.</p>
+<p align="center">This <i>README</i> was last updated on Wed Aug 23 2023 at 10:15:15 AM.</p>
