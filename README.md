@@ -15,8 +15,8 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/codu">codu</a>.</p>
-<p>**Codú's open-source codebase. A space for coders. Visit our community! **</p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/realshaunoneill">realshaunoneill</a>.</p>
+<p><strong>Personal repo to store my public profile README!</strong></p>
 </li>
 </ul>
 <p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Sun Apr 21 2024 at 12:46:23 AM.</p>
+<p align="center">This <i>README</i> was last updated on Sun Apr 28 2024 at 12:46:55 AM.</p>
