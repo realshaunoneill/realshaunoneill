@@ -15,14 +15,14 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/realshaunoneill">realshaunoneill</a>.</p>
-<p><strong>Personal repo to store my public profile README!</strong></p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/dotfiles">dotfiles</a>.</p>
+<p><strong>This repo contains my personal dotfiles config setup. Here you'll find my configs, themes, aliases and whatever I need to personalize my Linux and MacOS terminal.</strong></p>
 </li>
 </ul>
 <p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
 <p>Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:</p>
 <ul>
-<li><a href="https://github.com/realshaunoneill/dotfiles">DotFiles</a> - This repo contains my personal dotfiles config setup. Here you'll find my configs, themes, aliases and whatever I need to personalize my Linux and MacOS terminal.  - 2⭐️</li>
+<li><a href="https://github.com/realshaunoneill/dotfiles">DotFiles</a> - This repo contains my personal dotfiles config setup. Here you'll find my configs, themes, aliases and whatever I need to personalize my Linux and MacOS terminal.  - 3⭐️</li>
 <li><a href="https://github.com/realshaunoneill/cloudflare-ddns">Cloudflare-DDNS</a> - A dynamic DNS service which uses Cloudflare! Automatically update your cloudflare domain with your public IP!  - 1⭐️</li>
 <li><a href="https://github.com/realshaunoneill/docker-log-tailer">Docker Log Tailer</a> - A simple tool to stream docker container logs to the Rapid7 logging service  - 1⭐️</li>
 <li><a href="https://github.com/realshaunoneill/FakeSocial">Fake Social</a> - Fake social media login's for the purpose of educating people to spot the differences! 🔥  - 4⭐️</li>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Sun Oct 13 2024 at 1:00:11 AM.</p>
+<p align="center">This <i>README</i> was last updated on Sun Oct 20 2024 at 1:01:31 AM.</p>
