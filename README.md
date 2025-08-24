@@ -15,8 +15,8 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/realshaunoneill">realshaunoneill</a>.</p>
-<p><strong>Personal repo to store my public profile README!</strong></p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/cinecrush-app">cinecrush-app</a>.</p>
+<p><strong>null</strong></p>
 </li>
 </ul>
 <p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Sun Aug 17 2025 at 1:14:05 AM.</p>
+<p align="center">This <i>README</i> was last updated on Sun Aug 24 2025 at 1:11:24 AM.</p>
