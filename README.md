@@ -15,7 +15,7 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/home-ops">home-ops</a>.</p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/ReceiptWise">ReceiptWise</a>.</p>
 <p><strong>null</strong></p>
 </li>
 </ul>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Sun Sep 06 2026 at 2:18:49 AM.</p>
+<p align="center">This <i>README</i> was last updated on Sun Sep 13 2026 at 2:32:00 AM.</p>
