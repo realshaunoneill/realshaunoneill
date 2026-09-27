@@ -15,8 +15,8 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/ReceiptWise">ReceiptWise</a>.</p>
-<p><strong>null</strong></p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/dotfiles">dotfiles</a>.</p>
+<p><strong>This repo contains my personal dotfiles config setup. Here you'll find my configs, themes, aliases and whatever I need to personalize my Linux and MacOS terminal.</strong></p>
 </li>
 </ul>
 <p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Sun Sep 20 2026 at 2:47:45 AM.</p>
+<p align="center">This <i>README</i> was last updated on Sun Sep 27 2026 at 2:59:27 AM.</p>
