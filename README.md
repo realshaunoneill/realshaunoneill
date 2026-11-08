@@ -15,8 +15,8 @@ At Rapid7, I am constantly challenged to explore new technologies and collaborat
 <h2>🔭 Projects</h2>
 <ul>
 <li>
-<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/ReceiptWise">ReceiptWise</a>.</p>
-<p><strong>null</strong></p>
+<p>Recently, I've been working on <a href="https://api.github.com/repos/realshaunoneill/audi-mhi2q-carplay-cockpit">audi-mhi2q-carplay-cockpit</a>.</p>
+<p><strong>Step-by-step install guide: Apple CarPlay map and turn-by-turn in the Audi Virtual Cockpit (MHI2Q, B9 A4/A5/S5, Q5, Q7) using luka-dev/mib2q-carplay-rgi</strong></p>
 </li>
 </ul>
 <p>It's probably still a work in progress, but I'm always looking for feedback! :smile:</p>
@@ -44,4 +44,4 @@ You can see more by exploring <a href="https://github.com/realshaunoneill/reposi
   </tr>
 </table>
 <hr>
-<p align="center">This <i>README</i> was last updated on Sun Nov 01 2026 at 3:42:32 AM.</p>
+<p align="center">This <i>README</i> was last updated on Sun Nov 08 2026 at 3:46:43 AM.</p>
